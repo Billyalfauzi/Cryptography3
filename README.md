@@ -24,9 +24,9 @@ Pengguna mengakses halaman index.php yang menampilkan formulir untuk memasukkan 
 
 ![Gambar 2](img/ss2.png)
 
-- Setelah pengguna mengisi formulir dan mengirimkannya, data yang dimasukkan diambil dengan metode POST di halaman hill_cipher.php. Halaman hill_cipher.php menginisialisasi koneksi ke database MySQL.
+Setelah pengguna mengisi formulir dan mengirimkannya, data yang dimasukkan diambil dengan metode POST di halaman hill_cipher.php. Halaman hill_cipher.php menginisialisasi koneksi ke database MySQL.
 
-- Informasi koneksi seperti nama host, nama pengguna, kata sandi, dan nama database didefinisikan di halaman ini.
+Informasi koneksi seperti nama host, nama pengguna, kata sandi, dan nama database didefinisikan di halaman ini.
 
 ## Dekripsi
 
